@@ -5,6 +5,7 @@ public class Candidate {
 
     String registrationStatus;
     String examinationCentre;
+    System registrationNumber;
 
 
     static {
