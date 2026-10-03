@@ -12,7 +12,7 @@ public class Candidate {
     static {
         System.out.println("Static Block Executing.....");
         examyear=2026;
-        registrationFee=60000;
+        registrationFee=65000;
         gradingpolicy="A=80-100, B=70-79, C=60-69, D=50-59, F=Below 50";
     }
 
