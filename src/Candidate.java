@@ -34,6 +34,7 @@ public class Candidate {
         System.out.println("Registration Status =" + registrationStatus);
         System.out.println("Examination Centre =" + examinationCentre);
         System.out.println("Candidate Name =" + candidateName);
+        System.out.println("Registration Number =" + registrationNumber);
         System.out.println("Exam Year =" + examyear);
         System.out.println("Registration Fee =" + registrationFee);
         System.out.println("Grading Policy =" + gradingpolicy);
