@@ -5,7 +5,7 @@ public class Candidate {
 
     String registrationStatus;
     String examinationCentre;
-    System registrationNumber;
+    String registrationNumber;
 
 
     static {
@@ -20,6 +20,7 @@ public class Candidate {
         System.out.println("Instance Initialization Block Executing...");
         registrationStatus="Registered";
         examinationCentre="UNEB Main Centre";
+        registrationNumber="UNEB2026001";
     }
 
 
