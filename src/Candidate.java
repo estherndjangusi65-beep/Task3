@@ -6,6 +6,7 @@ public class Candidate {
     String registrationStatus;
     String examinationCentre;
     String registrationNumber;
+    String candidateName;
 
 
     static {
@@ -21,6 +22,7 @@ public class Candidate {
         registrationStatus="Registered";
         examinationCentre="UNEB Main Centre";
         registrationNumber="UNEB2026001";
+        candidateName="Mave Esther";
     }
 
 
@@ -31,6 +33,7 @@ public class Candidate {
     public void showCandidateInfo(){
         System.out.println("Registration Status =" + registrationStatus);
         System.out.println("Examination Centre =" + examinationCentre);
+        System.out.println("Candidate Name =" + candidateName);
         System.out.println("Exam Year =" + examyear);
         System.out.println("Registration Fee =" + registrationFee);
         System.out.println("Grading Policy =" + gradingpolicy);
