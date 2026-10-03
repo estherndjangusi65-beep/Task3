@@ -20,7 +20,7 @@ public class Candidate {
     {
         System.out.println("Instance Initialization Block Executing...");
         registrationStatus="Registered";
-        examinationCentre="UNEB Kampala Centre";
+        examinationCentre="UNEB Central Centre";
         registrationNumber="UNEB2026001";
         candidateName="Mave Esther";
     }
